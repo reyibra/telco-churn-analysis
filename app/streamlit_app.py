@@ -39,7 +39,7 @@ if page == 'Home':
     st.subheader('A data-driven investigation into why customers leave')
     c1, c2 = st.columns([1,2])
     with c1:
-        st.image('assets/logo.png', width=120)
+        st.image('/workspaces/telco-churn-tci/assets/logo.png', width=120)
         st.markdown('**Project:** Interview-ready DS portfolio project')
         st.markdown('**Dataset:** Synthetic Telco (Secret) — 3k rows')
     with c2:
