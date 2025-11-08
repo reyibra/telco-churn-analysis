@@ -111,13 +111,24 @@ This one is **usable**.
  ┗ 📜 run.sh
 ```
 
-## 🧾 Notes (quick)
-- This skeleton uses a synthetic dataset to keep the repo unique and recruiter-friendly.
-- Notebooks include narrative cells: hypothesis, methods, results, and business interpretation.
-- The Streamlit app uses a dark premium theme and includes EDA, Model Prediction, and Insights pages.
-- Fill the notebooks with your analysis code; they are pre-populated with sections to guide you.
 
 ---
+
+## 📈 Future Enhancements
+
+Planned upgrades — because AI products evolve:
+
+- Add **SHAP-based explainability**
+- Add retention **recommendation engine** per persona
+- Deploy to **HuggingFace / Streamlit Cloud / Docker**
+- Add monitoring for drift & model performance
+
+---
+
+## 🧑‍💻 About Me
+
+I’m building AI products that **solve real problems**, not just hit metrics.  
+Curious, hands-on, and I ship.
 
 ## License
 This project is licensed under the MIT License.
