@@ -1,0 +1,3 @@
+- Conducted end-to-end customer churn analysis (Telco Churn Intelligence — TCi) using Python, Pandas, and scikit-learn; identified top features and proposed retention strategies.
+- Built a Streamlit dashboard for stakeholders to explore churn drivers and run quick model demos (incl. on-the-fly baseline model).
+- Produced explainability artifacts (SHAP/feature importance) and documented recommendations for product and retention teams.
